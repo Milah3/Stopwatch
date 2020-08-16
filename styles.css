@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+    padding:  5px;
+}body {
+    background-color: rgb(77, 121, 187);
+    color: white;
+}
+.heading {
+    font-family: monospace;
+}
+#image{
+   aspect-ratio: 10%;
+}
+.container{
+    height: 300px;
+    width: 100%;
+}
+#display {
+    margin-top: 20px;
+    height: 100px;
+    width: 100%;
+    font-size: 72px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
+.button {
+    border-radius: 5px;
+    width: 80px;
+    outline: none;
+}
+#startStop {
+    margin-right: 10px;
+    background-color: green;
+    color: white;
+}
+#reset {
+    background-color: red;
+    color: white;
+
+}
